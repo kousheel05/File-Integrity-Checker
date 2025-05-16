@@ -57,5 +57,9 @@ By using cryptographic hashing, it helps maintain trust in the integrity of sens
 it serves as a foundational security component in personal or small business environments and is ideal for educational purposes, internal audits, and basic monitoring tasks
 
 # OUTPUTS
+![Image](https://github.com/user-attachments/assets/deb05450-202d-483c-b90e-e9ef266ad30a)
 
+![Image](https://github.com/user-attachments/assets/8ed434bd-1b1c-48ae-addf-ba0e1023d3bb)
+
+![Image](https://github.com/user-attachments/assets/82f891f0-6899-4d16-9bac-f5f17a08d956)
 
